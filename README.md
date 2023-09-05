@@ -1,1 +1,1 @@
-# Analysis-of-fitness-project
+# Analysis-of-Fitness-project
